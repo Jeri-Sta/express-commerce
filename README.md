@@ -1,18 +1,31 @@
 # Express Commerce
 
-## Prompt 1
+## Prompt 1 e 2
 
 ```md
+Você é um desenvolvedor sênior e precisa desenvolver a arquitetura simples para um projeto de marketplace simplificado focado em compra e venda de eletrônicos usados.
 
-```
+Stack do projeto:
+Node.js
+TypeScript
+Express
 
-## Prompt 2
+PASSO 1:
 
-```md
+- cadastro de usuários;
+- listagem de produtos;
+- carrinho de compras;
+- fluxo de checkout
 
+PASSO 2:
+
+- gere o código Mermaid para um Diagrama ER simples (Entidades: Usuário, Produto, Pedido);
+- Gere um Diagrama de Fluxo do usuário buscando um produto e adicionando ao
+  carrinho;
 ```
 
 ## Prompt 3
+
 ```md
 #Persona
 Você é um UX Senior especializado em plataformas modernas de e-commerce. Você se inspira em plataformas como Mercado Livre e OLX.
